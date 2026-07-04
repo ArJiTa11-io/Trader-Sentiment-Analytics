@@ -1,5 +1,5 @@
 # Trader-Sentiment-Analytics
-Analyzing how Bitcoin market sentiment (Fear/Greed) relates to trader behavior 
+Analyzing how Bitcoin market sentiment relates to trader behavior 
 # Trader Behavior vs Market Sentiment — Hyperliquid Analysis
 
 This project analyzes how Bitcoin market sentiment (Fear vs Greed) relates to trader
