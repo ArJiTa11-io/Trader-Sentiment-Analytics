@@ -1,11 +1,23 @@
 # Trader-Sentiment-Analytics
 Analyzing how Bitcoin market sentiment (Fear/Greed) relates to trader behavior 
-# Crypto Trader Behavioral Analytics & Market Sentiment Framework
+# Trader Behavior vs Market Sentiment — Hyperliquid Analysis
 
-A quantitative data science project exploring the intersection of behavioral finance and market microstructure. This framework processes high-frequency execution data from the Hyperliquid perpetual exchange to analyze how shifts in macro market sentiment (Fear vs. Greed states) affect retail trader profitability, velocity, and exposure.
+This project analyzes how Bitcoin market sentiment (Fear vs Greed) relates to trader
+behavior and performance on the Hyperliquid exchange. Using historical trade data and
+the Fear/Greed index, it looks at whether traders change their leverage, position
+sizing, and trade frequency depending on market mood — and whether that shows up in
+their PnL and win rates.
 
-## 🚀 System Architecture & Execution
+## Setup
 
-1. **Environment Setup:** Ensure you have the foundational analytics stack installed:
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+## What's Inside
+
+- `analysis.ipynb` — data cleaning, merging, and analysis
+- `data/` — raw datasets
+- `outputs/` — generated charts and summary tables
+- `WRITEUP.md` — methodology, insights, and strategy recommendations
    ```bash
    pip install pandas numpy matplotlib seaborn
