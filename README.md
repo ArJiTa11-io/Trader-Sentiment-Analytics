@@ -51,9 +51,7 @@ up in their PnL and win rates.
   strategy
 
 ## ▶️ How to run
-
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
-
-Then open `analysis.ipynb` and run all cells 🚀
+Download `historical_data.csv` from the [Google Drive link](https://drive.google.com/file/d/1LzxPqCkxxAsRO8XwJ2ajIJ5c4ZGPwelp/view?usp=drive_link) above and place it in the repo folder, then open `analysis.ipynb` and run all cells 🚀
