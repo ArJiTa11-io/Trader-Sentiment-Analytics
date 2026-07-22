@@ -10,11 +10,10 @@ position sizes, and trade frequency depending on market mood, and whether that s
 up in their PnL and win rates.
 
 ## 📁 Files in this repo
-
 | File | What it is |
 | :--- | :--- |
-| `data/fear_greed_index.csv` | Daily Bitcoin sentiment data (Fear/Greed) |
-| `data/historical_data.csv` | Trade-level data from Hyperliquid |
+| `fear_greed_index.csv` | Daily Bitcoin sentiment data (Fear/Greed) |
+| `historical_data.csv` | Trade-level data from Hyperliquid — [Download from Google Drive](https://drive.google.com/file/d/1LzxPqCkxxAsRO8XwJ2ajIJ5c4ZGPwelp/view?usp=drive_link) (too large to host on GitHub) |
 | `analysis.ipynb` | Data cleaning, merging, and analysis |
 | `WRITEUP.md` | Summary of methodology, insights, and strategy ideas |
 
