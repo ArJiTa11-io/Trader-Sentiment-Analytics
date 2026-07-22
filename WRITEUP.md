@@ -31,7 +31,7 @@ exactly when performing best — consistent with disciplined dip-buying or
 short-side positioning rather than panic trading.
 
 ## Charts
-![PnL and Win Rate by Sentiment](pnl_winrate_by_sentiment.png)
+![PnL and Win Rate by Sentiment](Chart.png)
 
 ## Strategy Ideas
 - **Extreme Greed is the highest-risk zone, not Fear.** With the lowest win
